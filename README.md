@@ -1,6 +1,7 @@
 #Amazon Sales Analysis  Dashboard using SQL and Power BI
 Analysed sales data using SQL to identify revenue trends and customer behaviour
 Built interactive dashboards using Power BI to visualize catergory wise revenue, sales performance, payment methods used and discount offered.
+
 Findings: 
 1. Asia shows higher sales in the Books category, with strong usage of UPI as a payment method.
 2. Europe demonstrates higher purchases in Fashion, primarily using Debit Cards and Wallets.
